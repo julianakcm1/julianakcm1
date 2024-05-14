@@ -30,9 +30,10 @@
   </div>
 
 <div>
-  <a href="https://github.com/Gurupreet">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianakcm1&theme=dracula&hide_langs_below=3" />
-  </a>
+  <div align="left">
+    <a href="https://github.com/julianakcm1">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianakcm1&layout=compact&langs_count=10&theme=dracula"/>
+  </div>
 </div>
 
 <!---
