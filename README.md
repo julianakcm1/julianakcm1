@@ -2,6 +2,7 @@
 
 - I'm a frontend developer and a computer science student at UFAL (Universidade Federal de Alagoas - Federal University of Alagoas)
 - I’m currently a systems developer at NTI (Núcleo de Tecnologia da Informação/UFAL - Information Technology Center)
+- I'm studying Node.js
 - How to reach me: <br>
   <div>
     <a href = "mailto:contato@julianakcmelo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
