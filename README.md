@@ -8,7 +8,7 @@ I hold a Bachelor’s degree in Computer Science from UFAL and am currently focu
 - 🎓 Bachelor’s degree in Computer Science (UFAL)
 - 🏢 Systems Developer at NTI/UFAL
 - 📊 Studying **Python, SQL and Machine Learning**
-- 💡 Solid background in **JavaScript, TypeScript and React** (Frontend dev)
+- 💡 Solid background in **JavaScript, TypeScript, Node.js and React**
 - 😄 Pronouns: She / Her
 
 ---
