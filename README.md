@@ -67,17 +67,3 @@ I hold a Bachelor’s degree in Computer Science from UFAL and am currently focu
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julianakcm1)
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="35"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="35"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="35"/>
-</p>
